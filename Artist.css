@@ -1,0 +1,24 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form label{
+    color: white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form input{
+    width: 125px;
+    border: solid white 2px;
+    background: white;
+}
+.divBackground{
+    background-color: grey;
+}

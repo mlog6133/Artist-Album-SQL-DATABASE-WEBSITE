@@ -1,0 +1,121 @@
+body{
+    background-color: grey;
+}
+
+.div1{
+    border: 5px solid black;
+    background-color: white;
+    padding: none;
+    
+}
+
+.firstH1{
+    margin-left: 615px;
+    font-family: monospace;
+}
+
+.myImage {
+    float: right;
+  }
+
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    border: 5px solid black;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+.navbar ul {
+    text-align: center;
+    padding: 0;
+}
+
+.navbar li {
+    display: inline;
+    margin: 0 10px; 
+    list-style-type: none;
+    padding: 15px;
+    border-right: 5px solid black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#slideshow{
+    background-color: white;
+    border: 5px solid black;
+    
+}
+
+h1{
+font-family:monospace;
+}
+
+.info{
+    background-color: white;
+    border: 5px solid black;
+    font-family:monospace;
+    padding: 3px;
+}
+.album {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.album p {
+  margin: 0;
+}
+
+.album strong {
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+}
+.artist {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.artist p {
+  margin: 0;
+}
+
+.artist strong {
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.search-box {
+  margin-right: 10px;
+}
+
+.search-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
